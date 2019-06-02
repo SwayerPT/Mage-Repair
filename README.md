@@ -1,7 +1,6 @@
 <h1 align="center">
   <img  src="http://smartsilva.top/asp/img/drsmartsilva_logo_no.png" height="auto" width="200" />
   <br/>
-  Smart Silva Repair
 </h1>
 
 <p align="center"><br>SSR (Em desenvolvimento 1.0)</br>
