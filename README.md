@@ -44,3 +44,7 @@ Resultados;
 Relatórios;
 Gestão de Vendas liquidas;
 Atualizações em andamento semanal...
+
+##Como obter?
+- Envie mensagem.
+**https://www.facebook.com/smartsilvarepair**
