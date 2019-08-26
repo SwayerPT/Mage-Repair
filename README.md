@@ -3,8 +3,8 @@
   <br/>
 </h1>
 
-<p align="center"><br>SSR (Em desenvolvimento 0.60)</br>
-Cria, Gere e Edita fichas de reparações com o SmartSilva Labs. Esta aplicação web tornará possível a organização das suas fichas de cliente.</p>
+<p align="center"><br>SSR (Regular Updates)</br>
+It's a project with the initiative of helping companies / individuals to organize their own repairs.</p>
 
 ## How it works? 
 
@@ -14,7 +14,7 @@ Cria, Gere e Edita fichas de reparações com o SmartSilva Labs. Esta aplicaçã
 - Stock handling / Create / Manage / Includes Management through repair.
 
 ## How to get?
-- Envie mensagem.
+- Send message to geral@smartsilva.top
 **http://www.smartsilva.top**
 
 - We are offering 1 free month to test before u pay.
