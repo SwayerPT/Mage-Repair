@@ -19,7 +19,7 @@ It's a project with the initiative of helping companies / individuals to organiz
 - And more...
 
 ## How to get?
-- Send message to geral@smartsilva.top
+- Send message to smartsilva.labs@gmail.com
 **http://www.smartsilva.top**
 
 - We are offering 1 free month to test before u pay.
