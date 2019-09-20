@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img  src="http://smartsilva.top/index/smartsilva_labs_logo.png" height="auto" width="200" />
+  <img  src="http://magelabs.pro/index/mage.png" height="auto" width="200" />
   <br/>
 </h1>
 
-<p align="center"><br>SSR (Regular Updates)</br>
+<p align="center"><br>Mage Repair (Regular Updates)</br>
 It's a project with the initiative of helping companies / individuals to organize their own repairs.</p>
 
 ## How it works? 
@@ -21,7 +21,7 @@ It's a project with the initiative of helping companies / individuals to organiz
 ## How to get?
 - Send message to smartsilva.labs@gmail.com
 
-or visit **http://www.smartsilva.top**
+or visit **http://magelabs.pro**
 
 - We are offering 1 free month to test before u pay.
 - Report any bug or give us your feedback here.
