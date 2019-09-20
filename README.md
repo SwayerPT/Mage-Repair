@@ -26,4 +26,4 @@ or visit **http://magelabs.pro**
 - We are offering 1 free month to test before u pay.
 - Report any bug or give us your feedback here.
 
-<img src="https://scontent.ffnc1-1.fna.fbcdn.net/v/t1.0-9/69049427_2287786967998219_8413290927942008832_o.jpg?_nc_cat=106&_nc_oc=AQnDTRc3nmjJJTELMowFb4vgLf9_vRF8EzbZ0CcndO5l_N9VgEQBvFktOFU_CH7jyHQ&_nc_ht=scontent.ffnc1-1.fna&oh=f2cf2954317d1d1758ddac549c4efb04&oe=5E05DB79">
+<img src="flyer.jpg">
