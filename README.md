@@ -23,7 +23,7 @@ It's a project with the initiative of helping companies / individuals to organiz
 
 or visit **http://magelabs.pro**
 
-- We are offering 1 free month to test before u pay.
+- Contribute for this project and received the Full Open Source.
 - Report any bug or give us your feedback here.
 
 <img src="http://magelabs.pro/index/tablet.png">
