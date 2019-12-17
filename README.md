@@ -19,7 +19,7 @@ It's a project with the initiative of helping companies / individuals to organiz
 - And more...
 
 ## How to get?
-- Send message to smartsilva.labs@gmail.com
+- Send message to magelabs.office@gmail.com
 
 or visit **http://magelabs.pro**
 
