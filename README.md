@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img  src="http://magelabs.pro/index/mage.png" height="auto" width="200" />
+  <img  src="https://i.imgur.com/hvXHfzi.png" height="auto" width="200" />
   <br/>
 </h1>
 
@@ -26,4 +26,4 @@ or visit **http://magelabs.pro**
 - Contribute for this project and received the Full Open Source.
 - Report any bug or give us your feedback here.
 
-<img src="http://magelabs.pro/index/tablet.png">
+<img src="https://i.imgur.com/Wa3eQJv.png">
