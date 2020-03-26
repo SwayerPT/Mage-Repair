@@ -18,6 +18,9 @@ It's a project with the initiative of helping companies / individuals to organiz
 - Translation System (PT-ENG).
 - And more...
 
+## Install Mode:
+- Extract all the files and you will get 2 folders, One with the Product Version and another with SQL file.
+
 <img src="https://i.imgur.com/Wa3eQJv.png">
 
 ## Contribute:
