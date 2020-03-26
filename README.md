@@ -15,15 +15,11 @@ It's a project with the initiative of helping companies / individuals to organiz
 - Warehouse Login Session / You can create your own Store Warehouse and make repairs from there without changing other wirehouses.
 - Report Excel Files / includes values about Sales in Repairs(budgets) / List of Repairs / Totals of the Day.
 - Budget System included in Repair Arquive.
-- Translation System (is coming in the next update 0.70).
+- Translation System (PT-ENG).
 - And more...
 
-## How to get?
-- Send message to magelabs.office@gmail.com
-
-or visit **http://magelabs.pro**
-
-- Contribute for this project and received the Full Open Source.
-- Report any bug or give us your feedback here.
-
 <img src="https://i.imgur.com/Wa3eQJv.png">
+
+## Contribute:
+- Send message to magelabs.office@gmail.com and you will get the full version and make your code changes.
+- Open an issue here.
