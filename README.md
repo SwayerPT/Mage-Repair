@@ -20,6 +20,7 @@ It's a project with the initiative of helping companies / individuals to organiz
 
 ## Install Mode:
 - Extract all the files and you will get 2 folders, One with the Product Version and another with SQL file.
+- Use admin@gmail.com as username and password to login.
 
 <img src="https://i.imgur.com/Wa3eQJv.png">
 
